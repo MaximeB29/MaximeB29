@@ -7,7 +7,8 @@
 - 🥵 I am learning Next.js and Typescript 🥵  
   
 
-- ✌️ I am looking for a company for a one-year work-study contract from March 2023 to March 2024 (3 weeks in business / 1 week in class) ✌️  
+- ✌️ I am looking for a company for a one-year work-study contract from March 2023 to March 2024 (3 weeks in business / 1 week in class) 
+ Stay in touch !✌️  
   
 
 <br/>  
