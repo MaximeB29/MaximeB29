@@ -1,15 +1,7 @@
-### <div align="center">I am Maxime, a 25 years-old full-stack junior developer </div>  
+### <div align="center">I am Maxime, a 26 years-old full-stack junior developer </div>  
   
 
 - 📖 I am currently studying at [Wild Code School](https://www.wildcodeschool.com) to develop my coding practices and skills 
-  
-
-- 🥵 I am learning Next.js and Typescript 
-  
-
-- ✌️ I am looking for a company for a one-year work-study contract from March 2023 to March 2024 (3 weeks in business / 1 week in class) 
- Stay in touch !
-  
 
 <br/>  
 
